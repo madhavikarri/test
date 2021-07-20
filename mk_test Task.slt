@@ -1,0 +1,19 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "mk_test Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "llfeed_token": "XcQenomLAXa7oIIwHrXikAwunf5nr3NL",
+        "pipeline_parameters": {
+            "passthrough": "0.7"
+        },
+        "pipeline_path": "mk_test",
+        "snaplex_path": "Cloudplex"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}

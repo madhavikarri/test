@@ -1,0 +1,29 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarybasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogictrial"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "testaccount"
+            }
+        },
+        "settings": {
+            "password": {
+                "expression": false,
+                "fp": "6f3e6e685aeb1163e0762544d5ec0bbcd18320eb0c66a9f7a98ab809efec4d00",
+                "key": "account-cloud-managed-5a20a5c1f952e907308b2e59-2017-12-01T00:43:55-552216+00:00",
+                "sym_iv": "jWrNKhJcu8E1n5EuPRYkKw==",
+                "sym_key": "hLo2ND+MBhrGx0F6FCLobeJ+4+TFCp2kZ0b7Jtr8mFT4TbcG2NHr48hoW7UDBqfzy5VtM3hK+MQXtqGe0Mf5ETcZR1m5Ayd3Huvom6EH+a+ME6D/uPK8nXBuFbpz5bLCfbkIMJPQPdiY7kP7e3yi0yBmCEnaR4UWf7XHuk0+uaYgQeQv1sr/Lkw8rA8gy+SPapA+SNGokoQxnS5MLB/uBn3vrATXQAlhvqYoQpCYVrc/wuHN5SSexVzlnFPAoblZBaNORGk3p5T6kJt3UGkD7ycUuWLU8Ttc842JAoziqRvLSLGIyAqP+JhbhoL6qPo93sW/ACaEfUq0DpnjfAVPrw==",
+                "value": "FbGcGFFxsZ5XiIdxS0FutA=="
+            },
+            "username": {
+                "expression": false,
+                "value": "k.sree@nagarro.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
